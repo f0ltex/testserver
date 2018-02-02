@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+  <Item>
+<modelName>hp10</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="100" />
+</Item>
+  <Item>
+<modelName>hp9</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="100" />
+</Item>
+<Item>
+<modelName>hp8</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="100" />
+</Item>   
+<Item>
+<modelName>hp7</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="0" />
+  <sirenSettings value="103" />
+</Item>
+<Item> 
+<modelName>hp6</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+<Item> 
+<modelName>hp5</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+<Item> 
+<modelName>hp4</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+<Item> 
+<modelName>hp3</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+<Item> 
+<modelName>hp2</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+<Item> 
+<modelName>hp1</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>157_massacaro2_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="100" />
+</Item>
+</variationData>
+</CVehicleModelInfoVariation>
